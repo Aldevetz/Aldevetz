@@ -1,0 +1,51 @@
+Ballade No.1 in E Major
+
+BPM 80
+
+
+[A](Intro) 
+Key=C#m
+| C#m | G#7 | Bbm7b5 | Eb7 |
+| C#m | G#7 | Bbm7b5 | Eb7 |
+
+[B]
+| C#m | G#7 | C#m7 | Ebm7b5 / G#7(b13) |
+| C#m | G#7 | C#m7 | Ebm7b5 / G#7(b13) |
+
+[C]
+Key=Gm
+| Gm7 | Cm7 | BbM7 | F7sus4 / F7 |
+| Gm7 | Cm7 | BbM7 | F7sus4 / F7 |
+
+[D]
+Key=E
+| E | B | A | G#/C / C#m |
+| F#m | A | G#m | B |
+| E | B | A | G#/C / C#m |
+| F#m | A | G#m | B |
+
+[E]
+| E | B | F#m/C# | A |
+| E | B | A/C# | G#7 |
+
+[B]
+[C]
+[D]
+
+[E]
+3/4
+| E | B | E | B |
+| E | B | A | G#|
+| E | B | A | G#|
+
+[F](Solo)
+4/4 Key=Em
+| Em | C | D | B |
+| Em | C | D | B |
+| C  | G | D | Em|
+| C  | G | D | D#dim |
+
+[C]
+[D]
+[D]ギターソロを乗せて繰り返し
+
