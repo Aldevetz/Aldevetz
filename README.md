@@ -12,5 +12,5 @@ Heavy Pop Band "Aldvetz".
 
 ## Demo
 
-[SoundCloud](https://soundcloud.com/aldevetz)
-[YouTube](https://www.youtube.com/channel/UCk-kzzjpKQNFMsqlGoLJtNA)
+* [SoundCloud](https://soundcloud.com/aldevetz)
+* [YouTube](https://www.youtube.com/channel/UCk-kzzjpKQNFMsqlGoLJtNA)
