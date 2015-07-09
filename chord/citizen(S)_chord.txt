@@ -1,0 +1,58 @@
+citizen(S)
+
+BPM 124.6
+
+[A]
+Key=Am
+Riffはtab参照
+| Am |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
+
+[B]
+Key=A(Blues)
+| A  |    |    |    |
+| D  |    | E  |    |
+| A  |    |    |    |
+| D  |    | E  |    |
+
+[C]
+| D  |    | Am  |    |
+| D  |    | E  |    |
+| Fdim |
+
+[D]
+Key=A
+| C#m | F#m | D  | E  |
+| C#m | A   | D  | Bb |
+| C#m | F#m | D  | E  |
+| C#m | A   | D  | Bb |
+
+[A]最後4小節
+[B]
+[C]
+[D]
+
+[E]
+[A]の2つ目のリフと同じ(Cmのところはキーを上げるだけ)
+| Am  |     |     |     |
+| Cm  |     |     |     |
+
+[F](Guitar Solo)
+Riffはtab参照
+| Cm  |     |     | Bb  | x4
+
+[G]
+[E]の逆の展開
+| Cm  |    |     |     |
+| Am  |    |     |     | 
+
+[C]
+[D]
+
+[H]
+Riffはtab参照。Aの逆の展開です
+| Am |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
+
