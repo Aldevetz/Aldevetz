@@ -1,7 +1,7 @@
 Aldevetz
 ========
 
-Heavy Pop Band "Aldvetz".
+Heavy Pop Band "Aldevetz".
 
 ## Description
 
