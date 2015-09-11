@@ -32,13 +32,13 @@ Key=E
 [C]
 [D]
 
-[E]
+[F]
 3/4
 | E | B | E | B |
 | E | B | A | G#|
 | E | B | A | G#|
 
-[F](Solo)
+[G](Solo)
 4/4 Key=Em
 | Em | C | D | B |
 | Em | C | D | B |
