@@ -1,0 +1,75 @@
+our daybreak
+BPM 215
+Key=Em,G
+
+[A]
+| Em | G | Am | Bsus4 |
+| Em | G | Am | Bsus4 |
+
+[B]
+Tab参照
+| Em D C | Em D C | Am | Bm | x4
+
+[C]
+| C  |    | G  |    |
+| C  |    | D  |    |
+
+[B']
+| Em D C | Em D C| Am | Bm | x2
+
+[C]
+
+[D]
+| Em |    | D  |    |
+| Am |    | Bm |    |
+| Em |    | D  |    |
+| Am |    | Bm |    |
+
+[E]
+| G  |    | D/F# |    |
+| Am |    | D  |    |
+| G  |    | Em |    |
+| D  |    | C  |    |
+|    |
+
+[C]
+[B']
+[C]
+[D]
+
+[E']
+| G  |    | D/F# |    |
+| Am |    | D  |    |
+| G  |    | Em |    |
+| D  |    | C  |    |
+
+[F]
+| Em | D/F# | Bm | Am |
+| G  | D/F# | Em | B7 |
+| Em | D/F# | Bm | Am |
+| G  | D/F# | Em | B7 |
+| G  | D/F# | C  | Bm |
+
+[G]
+| C  | D  | Em | G  |
+| C  | D  | Em | G  |
+
+[E']
+[E'']
+| G  |    | D/F# |    |
+| Am |    | D  |    |
+| G  |    | Em |    |
+| D  |    | C  |  / Bm |
+
+[H]
+| Em C D B |    |
+| Em C D B/D# |    |
+| Em C D B |    |
+| Em C D B/D# |    |
+
+[B']
+[I]
+| D Em F#m7b5 | G Am Bm |
+| Am Bm C | D G D |
+| G  |
+
