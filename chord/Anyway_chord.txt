@@ -1,0 +1,46 @@
+Anyway!
+BPM 190
+Key=A, F#m
+ 
+[A]
+| A / D C#m |    |    | E / D | 
+| A / D C#m |    |    | E / D |
+
+[B]
+| Am | C  | Am | Dm |
+| Am | C  | Am | C# |
+
+[C]
+| F#m | Bm | A  | E  |
+| F#m | Bm | A  | C# |
+| F#m | Bm | A  | E  |
+| F#m | Bm | A  | C# |
+
+[D]
+| A / D | E / F#m | A / D | E / F#m |
+| A / D C#m |    |    | E / D |
+| A / D | E / F#m | A / D | E / F#m |
+| A / D C#m |    |    | E / D |
+
+[A]
+[B]
+[C]
+[D]
+
+[E]
+| A  | D  | A  | E  |
+| A  | D  | A  | E  |
+| A  | D  | A  | E  |
+| A  | D  | A  | E  |
+| A  |    | Bm |    |
+| A  |    | E  |    |
+
+[D]
+
+[A']
+| A / D C#m |    |    | E / D | 
+| A / D C#m |    |    | E / D |
+| A / D C#m |    |    | E / D | 
+| A / D C#m |    |    | E / D |
+| A  |
+
