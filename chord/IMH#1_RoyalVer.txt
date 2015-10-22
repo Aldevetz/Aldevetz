@@ -1,0 +1,39 @@
+IMH #1 -Royal Ver.-
+BPM 137
+
+[A]
+Key=Em
+| Em    D | Em    D | Em    D | Em    D |
+| Em    D |     C D | Em    D |     C D | 
+
+[B]
+| Em | C  | Bm | D  |
+| Em | C  | Bm | D  |
+
+[C]
+| Em | 3/4 B | 4/4 Em | C / B |
+
+[B]
+
+[D]
+Key = C#m
+| C#m | 7/8 G# | 4/4 C#m | 7/8 B |
+| 4/4 C#m | 7/8 G# | 4/4 C#m | 7/8 B |
+
+[E]
+Key = E
+| 4/4 E / B | C#m / G#m | A / E | A / B | x4 
+
+[F]
+Key = Em
+| Em | C  | D  | B  | x4
+
+[A]
+
+[G]
+| Em | B  | D  | Am |
+| C  | B  | Em | B  |
+| Em | B  | D  | Am |
+| C  | B  | C  | B  | 
+| Em |
+
