@@ -1,9 +1,9 @@
 power
 Tuning - Drop D
-BPM = 185
+BPM 185
 
 [A]
-Key = Dm
+Key=Dm
 | Riff |    |    |    |
 | Riff |    |    |    |
 | Riff |    |    |    |
