@@ -1,0 +1,51 @@
+I do
+BPM 162
+
+[A]
+Key = E
+| C  | D  | E  |    |
+| C  | D  | E  |    |
+| C  | D  | E  |    |
+| C  | D  | G  |    |
+
+[B]
+Key = Em 
+| C  |    | Bm |    |
+| C  |    | Bm |    |
+| Am |    | Em |    |
+| Am |    | Bb |    |
+
+[C]
+Key = F#m
+| F#m | B  | D  | A  |
+| D  | C# | F#m | E  |
+| F#m | B  | D  | A  |
+| D  | C# | F#m | B  |
+
+[A']
+Key=E
+| C  | D  | E  |    |
+| C  | D  | E  |    |
+| C  | D  | E  |    |
+| C  | D  | G  |    |
+| Em | Am |
+
+[B]
+[C]
+[A]
+
+[D]
+| C  | D  | E  |    | x4
+
+[C']
+ Key = F#m
+| F#m | B  | D  | A  |
+| D  | C# | F#m | E  |
+| F#m | B  | D  | A  |
+| D  | C# | F#m | B / C B |
+
+[A] x2
+
+[E]
+| G  |   / D C | G  |
+
