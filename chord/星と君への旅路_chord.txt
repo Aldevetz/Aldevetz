@@ -1,0 +1,54 @@
+星と君への旅路
+BPM 105
+
+[A]
+Key=G
+| G  | Am | G  | Am  / C Bm |
+| G  | Am | G  | Am  / C Bm |
+
+[B]
+| G  | C  | G  | Am |
+| G  | C  | G  | F#m7b5 / B7 |
+
+[C]
+Key=Bb
+| Bb | Dm | Bb | Dm |
+| Cm | Eb | Dm | Cm |
+| Bb | Dm | Bb | Dm |
+| Cm | Eb | Dm | Cm |
+
+[D]
+Key=G
+| G  | Am | G  | C  |
+| G  | Am | G/B | C / Em Dsus4 |
+| G  | Am | G  | C  |
+| G  | Am | G/B | C / Em Dsus4 |
+
+[A]
+[B]
+
+[C']
+Key=Bb
+| Bb | Dm | Bb | Dm |
+| Cm | Eb | Dm | Cm |
+
+[D]
+
+[E]
+| G  | C  / G/D C | G  | C  / G/D Em | 
+| G  | C  / G/D C | G  | C  / D Em F | 
+
+[F]
+| n.c | x7
+| D  | 
+
+[G ]
+| G  | Am | D  | C  |
+| G  | Am | D  | C  |
+
+[D]
+
+[H]
+| G  | C / Bm Am | x4
+| G  |
+
